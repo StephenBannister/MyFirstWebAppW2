@@ -1,0 +1,41 @@
+/* Style the header */
+header {
+    background-color: #830404;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+/* Setting the style of the main body */
+body {
+    background-color: pink;
+}
+
+/* Setting the style of the marquee scroll */
+marquee {
+    border:5px solid rgb(131, 4, 4);
+    background-color: white;
+    width: 600px;
+    overflow: hidden
+}
+
+/* Setting the width of the images */
+img {
+    width: 300px
+}
+
+/* Changing font and font size for pre */
+pre {
+    font-family: Consolas, monospace;
+    font-size: 14px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #830404;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
